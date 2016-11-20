@@ -1,9 +1,16 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
-<head>
-    #import("head")
-</head>
+    #embed("head")
     <body>
-        #import("body")
+        <div id="wrapper">
+            #embed("header")
+            
+            <!-- Main -->
+            <div id="main">
+                #import("content")
+                
+            </div>
+            #embed("footer")
+        </div>
     </body>
 </html>
