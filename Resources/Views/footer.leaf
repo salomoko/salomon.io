@@ -2,9 +2,8 @@
     <section id="footer">
         <div class="container">
             <ul class="copyright">
-                <li>&copy; Salomon Valverde. Some rights reserved.</li>
+                <li>&copy; salomoko. Some rights reserved.</li>
                 <li>Powered By: <a href="http://vapor.codes">Vapor</a></li>
-                <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
             </ul>
         </div>
     </section>

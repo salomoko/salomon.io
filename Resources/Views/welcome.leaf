@@ -5,26 +5,37 @@
     <section id="one">
         <div class="container">
             <header class="major">
-                <h2>Read Only</h2>
-                <p>Just an incredibly simple responsive site<br />
-                template freebie by <a href="http://html5up.net">HTML5 UP</a>.</p>
+                <h2>Hey there!</h2>
+                <p>My name is Salomon Valverde, a homo sapien that<br />
+                    creates practical software on various platforms
+                </p>
             </header>
-            <p>Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum.</p>
+            <p>
+            Now residing in Denver CO. and enjoying so many things about this place! Left the San Francisco bay area last year to live closer to family, experience the beautiful rocky mountains, amongst shit tons of other reasons...<br />
+            Ever since high school I've been crafting software and I'm truly content with this trade. Developing software isn't just an obligation, it's a passion!<br />
+            Aside from my digital obsessions, I enjoy spending every waking second with my newborn baby Ezra!<br />
+            Hobbies include, guitar playing, snowboarding, cliff jumping, and spirits! 
+            </p>
         </div>
     </section>
 
     <!-- Two -->
     <section id="two">
         <div class="container">
-            <h3>Things I Can Do</h3>
-            <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet.</p>
+            <h3>Few things I've been known for</h3>
+            <p>Over 10 years industry experience with software development, design, and processes. I have a strong background in web application development, yet recently versed in crafting iOS apps. Furthermore a practical, self driven, socially adept creator that excels collaborating with teams.</p>
             <ul class="feature-icons">
-                <li class="fa-code">Write all the code</li>
-                <li class="fa-cubes">Stack small boxes</li>
-                <li class="fa-book">Read books and stuff</li>
-                <li class="fa-coffee">Drink much coffee</li>
-                <li class="fa-bolt">Lightning bolt</li>
-                <li class="fa-users">Shadow clone technique</li>
+                <li class="fa-tablet">iOS development maestro</li>
+                <li class="fa-code">Web development expert</li>
+                
+                <li class="fa-database">Database management wizard</li>
+                <li class="fa-code-fork">Git master (pun intended)</li>
+                
+                <li class="fa-group">Software Process maven</li>
+                <li class="fa-server">DevOps specialist</li>
+                
+                <li class="fa-coffee">Espresso connoisseur</li>
+                <li class="fa-glass">Arbiter of spirits</li>
             </ul>
         </div>
     </section>
@@ -32,7 +43,7 @@
     <!-- Three -->
     <section id="three">
         <div class="container">
-            <h3>A Few Accomplishments</h3>
+            <h3>Work Experiences</h3>
             <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.</p>
             <div class="features">
                 <article>
