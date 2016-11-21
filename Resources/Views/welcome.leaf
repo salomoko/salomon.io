@@ -22,7 +22,7 @@
     <!-- Two -->
     <section id="two">
         <div class="container">
-            <h3>Few things I've been known for</h3>
+            <h3>Some things I've been known for</h3>
             <p>Over 10 years industry experience with software development, design, and processes. I have a strong background in web application development, yet recently versed in crafting iOS apps. Furthermore a practical, self driven, socially adept creator that excels collaborating with teams.</p>
             <ul class="feature-icons">
                 <li class="fa-tablet">iOS development maestro</li>
@@ -44,13 +44,16 @@
     <section id="three">
         <div class="container">
             <h3>Latest Work</h3>
-            <p>Here are the most recent employers and projects I've worked on. '</p>
+            <p>Here are some of the most recent employers and projects I've worked for.</p>
             <div class="features">
                 <article>
-                    <a href="" class="image"><img src="images/pic01.jpg" alt="" /></a>
+                    <a href="" class="image"><img src="images/17hats-mobile-banner.png" alt="17hats mobile" /></a>
                     <div class="inner">
-                        <h4>17hats Inc.</h4>
-                        <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
+                        <h4>17hats Mobile</h4>
+                        <p>Hired as a Software Engineer for the mobile team. Purely a native iOS app written entirely in Swift, data
+                        persisted using <a href="https://realm.io" target="_blank">Realm Mobile Database</a>.
+                        Additionally, contributed a great deal on the web team as a full stack web developer. You can find the iOS app
+                        here <a href="http://apple.co/2fNfQ28" target="_blank">http://apple.co/2fNfQ28</a></p>
                     </div>
                 </article>
                 <article>
