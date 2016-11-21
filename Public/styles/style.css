@@ -195,7 +195,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+        color: #D91D50;
 		font-size: 3.5em;
 	}
 
@@ -932,7 +932,7 @@
 /* Header */
 
 	#header {
-		background: #4acaa8;
+        background: #17153B; /* side panel bg color */
 		color: #d1f1e9;
 		height: 100%;
 		position: fixed;
@@ -951,7 +951,7 @@
 			}
 
 		#header header p {
-			color: #b6e9dc;
+			color: #D91D50;
 		}
 
 		#header a {
@@ -978,7 +978,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+                color: #D91D50;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -996,7 +996,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc;
+                    color: #2F2D57;
 				}
 
 		#header > nav ul {
@@ -1006,7 +1006,7 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #5ccfb0;
+                border-top: solid 2px #2F2D57;
 				display: block;
 				padding: 0;
 			}
@@ -1057,7 +1057,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../images/banner.jpg");
+		background-image: url("../images/swift-banner-web.png");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
