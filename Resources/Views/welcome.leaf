@@ -6,15 +6,15 @@
         <div class="container">
             <header class="major">
                 <h2>Hey there!</h2>
-                <p>My name is Salomon Valverde, a homo sapien that<br />
+                <p>My name is Salomon Valverde, firstly a human that<br />
                     creates practical software on various platforms
                 </p>
             </header>
             <p>
             Now residing in Denver CO. and enjoying so many things about this place! Left the San Francisco bay area last year to live closer to family, experience the beautiful rocky mountains, amongst shit tons of other reasons...<br />
             Ever since high school I've been crafting software and I'm truly content with this trade. Developing software isn't just an obligation, it's a passion!<br />
-            Aside from my digital obsessions, I enjoy spending every waking second with my newborn baby Ezra!<br />
-            Hobbies include, guitar playing, snowboarding, cliff jumping, and spirits! 
+            Aside from my computing obsessions, I enjoy spending every waking second with my newborn baby Ezra.<br />
+            Hobbies include, guitar playing, snowboarding, cliff jumping, and comedy nights...
             </p>
         </div>
     </section>
@@ -43,31 +43,32 @@
     <!-- Three -->
     <section id="three">
         <div class="container">
-            <h3>Work Experiences</h3>
-            <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus.</p>
+            <h3>Latest Work</h3>
+            <p>Here are the most recent employers and projects I've worked on. '</p>
             <div class="features">
                 <article>
                     <a href="" class="image"><img src="images/pic01.jpg" alt="" /></a>
                     <div class="inner">
-                        <h4>Possibly broke spacetime</h4>
+                        <h4>17hats Inc.</h4>
                         <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
                     </div>
                 </article>
                 <article>
                     <a href="" class="image"><img src="images/pic02.jpg" alt="" /></a>
                     <div class="inner">
-                        <h4>Terraformed a small moon</h4>
+                        <h4>Bowtie.io</h4>
                         <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
                     </div>
                 </article>
                 <article>
                     <a href="" class="image"><img src="images/pic03.jpg" alt="" /></a>
                     <div class="inner">
-                        <h4>Snapped dark matter in the wild</h4>
+                        <h4>Coupa Software Inc.</h4>
                         <p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
                     </div>
                 </article>
             </div>
+            <p>Due to the nature of a previous employer, majority of the software I wrote at the beginning of the millenium ran on highly secure internal servers. If I have given you login credentials to preview this work, you can sign in here.</p>
         </div>
     </section>
 }
