@@ -31,11 +31,14 @@
                 <li class="fa-apple">iOS Development Aficionado</li>
                 <li class="fa-code">Web Development Virtuoso</li>
                 
-                <li class="fa-database">Database Management Wizard</li>
+                <li class="fa-database">Database Wizard</li>
                 <li class="fa-code-fork">Git Master (pun intended)</li>
                 
-                <li class="fa-group">Software Process Maven</li>
+                <li class="fa-group">Agile Process Expert</li>
                 <li class="fa-server">DevOps Specialist</li>
+                
+                <li class="fa-slack">Slack Overachiever</li>
+                <li class="fa-android">Android Libeler</li>
                 
                 <li class="fa-coffee">Espresso Connoisseur</li>
                 <li class="fa-glass">Arbiter of Spirits</li>
@@ -85,7 +88,7 @@
                     <a href="" class="image"><img src="images/private-apps-banner.png" alt="" /></a>
                     <div class="inner">
                         <h4 class="fa-lock">Private Projects</h4>
-                        <p>Due to the nature of previous employers, majority of software I wrote at the beginning of this millenium ran on highly secure internal servers. If I've' given you login credentials to preview this work, you can <a href="/login">sign in here</a>.</p>
+                        <p>Due to the nature of previous employers, majority of software I wrote at the start of my career ran on highly secure internal servers. If I've given you credentials to preview this work, you can <a href="/login">sign in here</a>.</p>
                     </div>
                 </article>
             </div>

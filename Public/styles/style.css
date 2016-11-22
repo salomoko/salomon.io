@@ -1108,5 +1108,6 @@
 				}
 
 				#footer .copyright li a {
+                    border-bottom: none;
 					color: inherit;
 				}

@@ -2,8 +2,8 @@
     <section id="footer">
         <div class="container">
             <ul class="copyright">
-                <li>&copy; salomoko. Some rights reserved.</li>
-                <li>Powered By: <a href="http://vapor.codes">Vapor</a></li>
+                <li><a href="http://vapor.codes" alt="Vapor - Web framework for Swift"><img src="images/vapor-drop.png" title="Vapor - Web framework for Swift" /></a></li>
+                <li><a href="https://www.codementor.io/salomoko?utm_source=github&utm_medium=button&utm_term=salomoko&utm_campaign=github"><img src="https://cdn.codementor.io/badges/i_am_a_codementor_light.svg" alt="I am a codementor" style="max-width:100%; max-height:40px"/></a></li>
             </ul>
         </div>
     </section>

@@ -4,7 +4,7 @@
             <span class="image avatar"><img src="images/avatar-scv.png" alt="" /></span>
             <h1 id="logo"><a href="/">salomoko.</a></h1>
             <p>A Software Craftsman who<br />
-            specializes in iOS and Web Applications.</p>
+            specializes in iOS and Web Applications</p>
         </header>
         <nav id="nav">
             <ul>
@@ -15,10 +15,10 @@
         </nav>
         <footer>
             <ul class="icons">
-                <li><a href="https://angel.co/salomoko" class="icon fa-angellist"><span class="label">Angellist</span></a></li>
-                <li><a href="https://twitter.com/salomoko" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-                <li><a href="https://www.instagram.com/salomoko/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-                <li><a href="https://github.com/salomoko" class="icon fa-github"><span class="label">Github</span></a></li>
+                <li><a href="https://angel.co/salomoko" target="_blank" class="icon fa-angellist"><span class="label">Angellist</span></a></li>
+                <li><a href="https://twitter.com/salomoko" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+                <li><a href="https://www.instagram.com/salomoko/" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+                <li><a href="https://github.com/salomoko" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
             </ul>
         </footer>
     </section>
