@@ -11,6 +11,10 @@ drop.get("contact") { req in
     return try drop.view.make("contact")
 }
 
+drop.get("login") { req in
+    return try drop.view.make("login")
+}
+
 drop.run()
 
 extension Request {

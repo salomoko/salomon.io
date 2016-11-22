@@ -11,10 +11,13 @@
                 </p>
             </header>
             <p>
-            Now residing in Denver CO. and enjoying so many things about this place! Left the San Francisco bay area last year to live closer to family, experience the beautiful rocky mountains, amongst shit tons of other reasons...<br />
-            Ever since high school I've been crafting software and I'm truly content with this trade. Developing software isn't just an obligation, it's a passion!<br />
-            Aside from my computing obsessions, I enjoy spending every waking second with my newborn baby <a href="http://bit.ly/2fWBw7W" target="_blank">Ezra</a>.<br />
-            Hobbies include, guitar playing, snowboarding, cliff jumping, and comedy nights...
+            Over 12 years industry experience in software development, design, and processes. I have a strong background in web application development and well versed crafting iOS applications. That's not all folks, I'm a practical, self driven, socially adept developer
+                that excels collaborating with teams.<br />
+            Software development isn't just an obligation or job, it's my passion! Since I left high school I've been studying software and I'm truly content with this craft.
+            </p>
+            <p>
+            Now residing in Denver CO. since leaving the San Francisco bay area last year.<br />
+                Aside from computing, I enjoy spending every waking second with my newborn baby <a href="http://bit.ly/2fWBw7W" target="_blank">Ezra</a>. Hobbies include, guitar playing, snowboarding, cliff jumping, and underground local comedy.
             </p>
         </div>
     </section>
@@ -22,8 +25,8 @@
     <!-- Two -->
     <section id="two">
         <div class="container">
-            <h3>Some things I've been known for</h3>
-            <p>Over 10 years industry experience with software development, design, and processes. I have a strong background in web application development, yet recently versed in crafting iOS apps. Furthermore a practical, self driven, socially adept creator that excels collaborating with teams.</p>
+            <h3>*Things I've been known for</h3>
+            <p></p>
             <ul class="feature-icons">
                 <li class="fa-tablet">iOS development maestro</li>
                 <li class="fa-code">Web development expert</li>
@@ -43,8 +46,8 @@
     <!-- Three -->
     <section id="three">
         <div class="container">
-            <h3>Latest Work</h3>
-            <p>Here are some of the most recent employers and projects I've worked for.</p>
+            <h3>Recent Work</h3>
+            <p>Here's some of the most recent projects and employers I've dedicated countless hours of work towards</p>
             <div class="features">
                 <article>
                     <a href="" class="image"><img src="images/17hats-mobile-banner.png" alt="17hats mobile" /></a>
@@ -60,22 +63,22 @@
                     <a href="" class="image"><img src="images/bowtie-banner.png" alt="Bowtie" /></a>
                     <div class="inner">
                         <h4>BowTie</h4>
-                        <p>A full stack (Ruby on Rails/React/Git hooks) web developer focused on the <a href="http://bowtie.io" target="_blank">Bowtie.io</a> product. As a web dev I primarily worked on internal tools, including the launch of
-                        our CI Server, provisioning system for deployments, and various product features including OAuth integrations.</p>
+                        <p>Hired as a full stack (Ruby on Rails/React/Git hooks) web developer to help build and launch the <a href="http://bowtie.io" target="_blank">Bowtie.io</a> product. As a web dev I primarily worked on internal tools, including the launch of
+                        our CI Server, deployment provisioning systems, and various product features including OAuth integrations.</p>
                     </div>
                 </article>
                 <article>
                     <a href="" class="image"><img src="images/coupa-banner.png" alt="" /></a>
                     <div class="inner">
                         <h4>Coupa Software </h4>
-                        <p>Primary focused on developing, designing and supporting an enterprise level iOS mobile application. In addition to my daily software development duties, I lead daily requirements, processes, and stand-ups (Agile) for the mobile team.You can find the iOS app here <a href="http://apple.co/2ePOZxv" target="_blank">http://apple.co/2ePOZxv</a></p>
+                        <p>Primarily focused on developing, designing and supporting an enterprise level iOS mobile application. In addition to my daily software development duties, I lead daily requirements, processes, and stand-ups for the mobile team. You can find the iOS app here <a href="http://apple.co/2ePOZxv" target="_blank">http://apple.co/2ePOZxv</a></p>
                     </div>
                 </article>
                 <article>
                     <a href="" class="image"><img src="images/private-apps-banner.png" alt="" /></a>
                     <div class="inner">
                         <h4 class="fa-lock">Private Projects</h4>
-                        <p>Due to the nature of a previous employer, majority of the software I wrote at the beginning of the millenium ran on highly secure internal servers. If I have given you login credentials to preview this work, you can <a href="/login" target="_blank">sign in here</a>.</p>
+                        <p>Due to the nature of previous employers, majority of software I wrote at the beginning of this millenium ran on highly secure internal servers. If I've' given you login credentials to preview this work, you can <a href="/login">sign in here</a>.</p>
                     </div>
                 </article>
             </div>
