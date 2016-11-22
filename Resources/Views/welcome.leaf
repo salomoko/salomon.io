@@ -25,20 +25,20 @@
     <!-- Two -->
     <section id="two">
         <div class="container">
-            <h3>*Things I've been known for</h3>
+            <h3>Things I've been known for...</h3>
             <p></p>
             <ul class="feature-icons">
-                <li class="fa-tablet">iOS development maestro</li>
-                <li class="fa-code">Web development expert</li>
+                <li class="fa-apple">iOS Development Aficionado</li>
+                <li class="fa-code">Web Development Virtuoso</li>
                 
-                <li class="fa-database">Database management wizard</li>
-                <li class="fa-code-fork">Git master (pun intended)</li>
+                <li class="fa-database">Database Management Wizard</li>
+                <li class="fa-code-fork">Git Master (pun intended)</li>
                 
-                <li class="fa-group">Software Process maven</li>
-                <li class="fa-server">DevOps specialist</li>
+                <li class="fa-group">Software Process Maven</li>
+                <li class="fa-server">DevOps Specialist</li>
                 
-                <li class="fa-coffee">Espresso connoisseur</li>
-                <li class="fa-glass">Arbiter of spirits</li>
+                <li class="fa-coffee">Espresso Connoisseur</li>
+                <li class="fa-glass">Arbiter of Spirits</li>
             </ul>
         </div>
     </section>
@@ -72,6 +72,13 @@
                     <div class="inner">
                         <h4>Coupa Software </h4>
                         <p>Primarily focused on developing, designing and supporting an enterprise level iOS mobile application. In addition to my daily software development duties, I lead daily requirements, processes, and stand-ups for the mobile team. You can find the iOS app here <a href="http://apple.co/2ePOZxv" target="_blank">http://apple.co/2ePOZxv</a></p>
+                    </div>
+                </article>
+                <article>
+                    <a href="" class="image"><img src="images/lavu-banner.png" alt="" /></a>
+                    <div class="inner">
+                        <h4>Lavu Inc.</h4>
+                        <p>Prior to my move to San Francisco I was heavily focused writing software with Lavu Inc. an iPad Point of Sale system. As the 6th employee, I developed various iOS and web apps including <a href="http://apple.co/2fbjSiR">Lavu KDS</a> and various features on backend systems.</p>
                     </div>
                 </article>
                 <article>
