@@ -72,8 +72,11 @@
                     </div>
                 </article>
                 <article>
-                    <h4>Private Projects</h4>
-                    <p>Due to the nature of a previous employer, majority of the software I wrote at the beginning of the millenium ran on highly secure internal servers. If I have given you login credentials to preview this work, you can sign in here.</p>
+                    <a href="" class="image"><img src="images/private-apps-banner.png" alt="" /></a>
+                    <div class="inner">
+                        <h4 class="fa-lock">Private Projects</h4>
+                        <p>Due to the nature of a previous employer, majority of the software I wrote at the beginning of the millenium ran on highly secure internal servers. If I have given you login credentials to preview this work, you can <a href="/login" target="_blank">sign in here</a>.</p>
+                    </div>
                 </article>
             </div>
             

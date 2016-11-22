@@ -35,7 +35,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #D91D50 !important;
 		}
 
 	strong, b {
@@ -562,7 +562,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background: #4acaa8;
+					background: #D91D50;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -913,6 +913,16 @@
 			vertical-align: middle;
 			width: 50%;
 		}
+
+            .features article .inner h4:before {
+                -moz-osx-font-smoothing: grayscale;
+                -webkit-font-smoothing: antialiased;
+                font-family: FontAwesome;
+                font-style: normal;
+                font-weight: normal;
+                text-transform: none !important;
+                padding-right: 0.5em;
+            }
 
 			.features article .inner > :last-child {
 				margin-bottom: 0;
