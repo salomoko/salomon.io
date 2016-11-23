@@ -44,7 +44,7 @@ final class ContactController {
         let to = "salomon.valverde@gmail.com"
         let email = Email(from: from,
                           to: to,
-                          subject: "Message from salomon.io - \(subject)",
+                          subject: "Message from salomon.io — \(subject)",
                           body: message
         )
         
