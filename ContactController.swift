@@ -34,8 +34,8 @@ final class ContactController {
         }
         
         let credentials = SMTPCredentials(
-            user: "salomon_io",
-            pass: "nopassworD84"
+            user: drop.config["smtp", "sendgrid", "username"]?.string ?? "",
+            pass: drop.config["smtp", "sendgrid", "password"]?.string ?? ""
         )
         
         let from = EmailAddress(name: name,
