@@ -5,8 +5,8 @@
     <section id="one">
         <div class="container">
         <h3>Contact Me</h3>
-        <p>You can contact me anytime directly at word [at] salomoko [dot] org or leave me a message below and I'll get back in touch with you in a jiffy!</p>
-        <form method="post" action="">
+        <p>Leave me a message below and I'll get back to you when I please</p>
+        <form method="post" action="/contact/create">
             <div class="row uniform">
                 <div class="6u 12u(xsmall)"><input type="text" name="name" id="name" placeholder="Name" /></div>
                 <div class="6u 12u(xsmall)"><input type="email" name="email" id="email" placeholder="Email" /></div>
@@ -21,7 +21,6 @@
                 <div class="12u">
                     <ul class="actions">
                         <li><input type="submit" class="special" value="Send Message" /></li>
-                        <li><input type="reset" value="Reset Form" /></li>
                     </ul>
                 </div>
             </div>
