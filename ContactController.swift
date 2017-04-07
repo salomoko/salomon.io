@@ -26,6 +26,11 @@ final class ContactController {
         guard let name = request.data["name"]?.string else {
             throw Abort.badRequest
         }
+        
+        guard let emailAddress = request.data["email"]?.string else {
+            throw Abort.badRequest
+        }
+        
         guard let subject = request.data["subject"]?.string else {
             throw Abort.badRequest
         }
@@ -39,7 +44,7 @@ final class ContactController {
         )
         
         let from = EmailAddress(name: name,
-                                address: "noreply@salomon.io"
+                                address: emailAddress
         )
         let to = "salomon.valverde@gmail.com"
         let email = Email(from: from,
@@ -49,8 +54,8 @@ final class ContactController {
         )
         
         let client = try SMTPClient<TCPClientStream>.makeSendGridClient()
-        let (code, reply) = try client.send(email, using: credentials)
+        let (code, greeting) = try client.send(email, using: credentials)
         
-        return "Successfully sent email: \(code) \(reply)"
+        return "Successfully sent email: \(code) \(greeting)"
     }
 }

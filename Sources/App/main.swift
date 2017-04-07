@@ -17,14 +17,10 @@ drop.post("contact", "send") { request in
     try contactController.send(request)
 }
 
+// MARK: Contact
+
 drop.get("login") { request in
     return try drop.view.make("login")
-}
-extension Request {
-    var baseUrl: String? {
-        guard let host = headers["Host"]?.finished(with: "/") else { return nil }
-        return "\(uri.scheme)://\(host)"
-    }
 }
 
 drop.run()
